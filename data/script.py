@@ -1,8 +1,8 @@
 import ftplib
 
-ftp_host = '48.216.216.1'
-ftp_user = 'tiff'
-ftp_pass = 'Photography@21'
+ftp_host = ''
+ftp_user = ''
+ftp_pass = ''
 
 local_file = "Typyreport.zip"
 remote_file = "Typyreport.zip"   
